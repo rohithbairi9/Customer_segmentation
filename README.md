@@ -1,5 +1,7 @@
 🛒 Customer Segmentation Project
 
+    ![Streamlit Dashboard Preview](outputs/dashboard_preview.png)
+
     K-Means clustering applied to 379,000+ transactions from the UCI Online Retail dataset to identify distinct customer segments and drive targeted marketing strategies.
 
 📊 Project Highlights
