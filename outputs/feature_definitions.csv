@@ -1,0 +1,15 @@
+feature,description,used_log_transform
+recency,Days since last purchase (lower = more recent),False
+frequency,Number of unique orders placed,True
+monetary,Total revenue from customer (£),True
+avg_order_value,Average spend per order (£),False
+std_order_value,Standard deviation of order values (£),True
+total_items,Total quantity of items purchased,True
+unique_products,Number of distinct products bought,True
+avg_items_per_order,Average items per order,True
+avg_days_between_orders,Average days between consecutive orders,False
+tenure_days,Days since first purchase (customer age),False
+basket_diversity,Unique products per order (variety),False
+spend_per_month,Total spend divided by tenure months,True
+order_value_stability,CV of order value (lower = more consistent),False
+is_uk,"1 if customer is from UK, 0 otherwise",False
