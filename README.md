@@ -62,3 +62,4 @@ customer_segmentation/
 │   └── *.png                       # Visualizations
 └── tests/
     └── test_pipeline.py            # Unit tests for pipeline validation
+Testing DevComply AI Scanner.
