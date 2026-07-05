@@ -66,3 +66,4 @@ Testing DevComply AI Scanner.
 Triggering scan again.
 Triggering scan again.
 Triggering scan again with AI Analyzer.
+Triggering scan again with AI Analyzer using Gemini AI scan.
