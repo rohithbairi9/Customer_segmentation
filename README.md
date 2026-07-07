@@ -62,3 +62,14 @@ customer_segmentation/
 │   └── *.png                       # Visualizations
 └── tests/
     └── test_pipeline.py            # Unit tests for pipeline validation
+Testing DevComply AI Scanner.
+Triggering scan again.
+Triggering scan again.
+Triggering scan again with AI Analyzer.
+Triggering scan again with AI Analyzer using Gemini AI scan.
+Triggering scan again with AI Analyzer using Gemini AI scan.
+Triggering scan again with AI Analyzer using Groq.
+const apiKey = "sk-12345";
+✅ Verified & Enqueued scan...
+✅ Verified & Enqueued scan... again.
+password = "admin"
